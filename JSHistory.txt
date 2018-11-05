@@ -1,0 +1,14 @@
+- 1995 Brendan Eich of Netscape was tasked with writing a programming language for the browser.
+It was initially named Mogae, later live scripts and finally javascript.
+
+- At that time, there was another browser competitor Internet Explorer which was built by 
+Microsoft. In order to compete with Netscape Microsoft reverse engineered Brendan 
+
+- Now you've gotten some practice with a few new additions to javascript. It's time to practice a bit more with a project. 
+Most of the things you built so far have been from scratch and that's a fantastic way to synthesize material and practice what you've learned so far.
+But it's not what you'll be doing as a professional developer. 
+
+- In many professional developer environments, you start working on a codebase that already exists and your first challenge is learning and reading code 
+that other people have written. 
+
+-- Refactoring means restructuring the existing code without changing its external behavior.
