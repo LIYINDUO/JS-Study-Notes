@@ -12,3 +12,19 @@ But it's not what you'll be doing as a professional developer.
 that other people have written. 
 
 -- Refactoring means restructuring the existing code without changing its external behavior.
+
+-- Recap Session1 => key points in ES2015: 
+- The map data structure is useful when creating key value pairs and the keys that are not strings
+- Sets are useful for creating unique data sets and do not require key value pairs 
+- The ES2015 Promise constructor allows for creating promises and resolving an array of pormises with Promise.all
+- Generators are valuable when creating functions or methods that can pause and resume at any time
+- ES2015 provides a few useful methods for converting array like objects into arrays, making shallow copies of objects, and handling issues 
+  with NaN and typeof number
+
+-- Recap Session2 => key points in ES2016 TO 18 learnt so far: 
+- ES2016 provides the ** operator and [].includes
+- ES2017 provides helpful string methods and introduces async functions 
+- The async/await keywords in ES2017 allow for writing synchronous looking functions that under the hood are asynchronous
+- We can combine async functions with Promise.all to create readable synchronous "looking" code
+- ES2018 provides the availability to use rest and spread operator on objects and not just arrays 
+- ES2018 provides support to iterate through AsyncIterables
