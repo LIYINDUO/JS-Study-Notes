@@ -1,5 +1,8 @@
 // App.js => 
-
+// State should only be owned by one Component
+// Never duplicate a state 
+// Never assign a state from props 
+// It is better to turn every Component without a state into a stateless functional component
 import React, { Component } from 'react';
 import './App.css';
 

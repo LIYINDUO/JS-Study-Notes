@@ -27,3 +27,9 @@
 
 // $ cd helloworld
 // $ npm start
+
+// nvm alias default 6.1.0
+
+// nvm uninstall v6.14.4
+
+// npm install -g npm@latest
